@@ -1,0 +1,13 @@
+D:\baitap\TinhTongCacSoCotXacDinh\bin\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.exe
+D:\baitap\TinhTongCacSoCotXacDinh\bin\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.deps.json
+D:\baitap\TinhTongCacSoCotXacDinh\bin\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.runtimeconfig.json
+D:\baitap\TinhTongCacSoCotXacDinh\bin\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.runtimeconfig.dev.json
+D:\baitap\TinhTongCacSoCotXacDinh\bin\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.dll
+D:\baitap\TinhTongCacSoCotXacDinh\bin\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.pdb
+D:\baitap\TinhTongCacSoCotXacDinh\obj\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.csprojAssemblyReference.cache
+D:\baitap\TinhTongCacSoCotXacDinh\obj\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.AssemblyInfoInputs.cache
+D:\baitap\TinhTongCacSoCotXacDinh\obj\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.AssemblyInfo.cs
+D:\baitap\TinhTongCacSoCotXacDinh\obj\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.csproj.CoreCompileInputs.cache
+D:\baitap\TinhTongCacSoCotXacDinh\obj\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.dll
+D:\baitap\TinhTongCacSoCotXacDinh\obj\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.pdb
+D:\baitap\TinhTongCacSoCotXacDinh\obj\Debug\netcoreapp3.1\TinhTongCacSoCotXacDinh.genruntimeconfig.cache
